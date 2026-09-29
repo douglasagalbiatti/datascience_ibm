@@ -1,0 +1,3 @@
+A ciência é feita de perguntas.
+Os dados ajudam a responder.
+Python transforma dados em conhecimento.

@@ -1,0 +1,7 @@
+nome,turma,idade,nota_1,nota_2,media,situacao,nome_maiusculo
+Ana,1A,15,8.5,7.0,7.75,Aprovado,ANA
+Bruno,1A,16,6.0,6.5,6.25,Aprovado,BRUNO
+Carla,1B,15,9.2,8.8,9.0,Aprovado,CARLA
+Diego,1B,17,4.8,5.2,5.0,Recuperação,DIEGO
+Elisa,1C,16,7.5,6.7,7.1,Aprovado,ELISA
+Fábio,1C,15,5.5,6.0,5.75,Recuperação,FÁBIO

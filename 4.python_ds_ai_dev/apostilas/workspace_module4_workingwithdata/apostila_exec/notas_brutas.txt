@@ -1,0 +1,7 @@
+nome;turma;nota
+Ana ; 1A ; 8,5
+Bruno;1A;6,0
+Carla;1B;9,2
+
+Diego;1B;N/A
+Elisa;1C;7,5

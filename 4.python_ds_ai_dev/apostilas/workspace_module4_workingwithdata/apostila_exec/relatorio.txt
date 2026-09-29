@@ -1,0 +1,7 @@
+RELATÓRIO DE NOTAS
+==================
+Alunos: 5 | Com nota: 4
+Média geral: 7.80
+  Turma 1A: 7.25
+  Turma 1B: 9.20
+  Turma 1C: 7.50
